@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Algorithm_Luna</string>
+    <string name="btn_name">Проверить карту</string>
+    <string name="inputDescription">Введите номер карты</string>
+</resources>
